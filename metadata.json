@@ -1,0 +1,6 @@
+{
+  "name": "Silver Jewellery Certification",
+  "description": "Authorized digital certification registry and quality marker verification portal for The Velvet Box silver jewelry line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
